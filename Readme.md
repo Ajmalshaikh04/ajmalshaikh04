@@ -10,7 +10,7 @@
   <h3> Done Bachelor's in Computer Engineering </h3>
 </p>
 
-- I am a full stack developer with a focus on Frontend but I am comfortable working on Frontend as well as Backend.
+- Innovative and task-driven, I am keen to learn, develop as well as contribute my best to the open-source and Organization. I am well versed in Frontend as well as Backend
 
 - I always enjoy learning new skills
 
