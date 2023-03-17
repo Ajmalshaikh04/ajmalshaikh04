@@ -16,11 +16,11 @@
 
 - <a href="https://github.com/Ajmalshaikh04" >Checkout my website</a>
 
-#### What I have learned
+### What I have learned
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![MySQL Badge](https://img.shields.io/badge/-MySql-orange?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=orange)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#) [![Mongo Badge](https://img.shields.io/badge/-MongoDB-0AD05B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=0AD05B)](#) [![PostgresSQL Badge](https://img.shields.io/badge/-PostgreSQL-3776ab?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=32648d)](#)
 
-#### Tools I have used
+### Tools I have used
 
 [![VScode Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=black&logo=Visual-Studio-Code&logoColor=007ACC)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=Figma&logoColor=F24E1E)](#) [![AndroidStudio Badge](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](#) [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=Postman&logoColor=FF6C37)](#) [![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=white&logo=heroku&logoColor=430098)](#)
 
