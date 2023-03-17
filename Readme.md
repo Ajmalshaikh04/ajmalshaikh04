@@ -26,4 +26,4 @@
 
 ### My Github
 
-![Ajmal's github stats](https://github-readme-stats.vercel.app/api?username=ajmalshaikh04&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalshaikh04&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Ajmal's github stats](https://github-readme-stats.vercel.app/api?username=ajmalshaikh04&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalshaikh04&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
