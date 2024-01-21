@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/ajmalshk04"><img src="https://api.daily.dev/devcards/f066b5d211564af6bbb4efba8f883f02.png?r=tst" width="400" alt="Ajmal Shaikh's Dev Card"/></a>
 <img align="right" alt="custom gif" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" width="8%"/>
 
 <div align='center'>
