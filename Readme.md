@@ -4,6 +4,7 @@
    <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%">Hello World I'm a Fullstack Developer with a passion to improve people's lives with tech</h2>
  
 [![Twitter Badge](https://img.shields.io/badge/-@AJ_cK04-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AJ_cK04)](https://twitter.com/AJ_cK04) [![Linkedin Badge](https://img.shields.io/badge/-Ajmal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-shaikh-15788b122/) [![Mail Badge](https://img.shields.io/badge/-@ajmal_shk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ajmal_shk) [![Mail Badge](https://img.shields.io/badge/-shaikhajmal50-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shaikhajmal50@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=ajmalshaikh04&style=flat-square&color=yellow" alt=""/>
 </div>
 
 <p align="center">
