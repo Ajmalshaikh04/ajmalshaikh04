@@ -1,9 +1,5 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img width="100%" height="3" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png">
-
-# 🚀 Welcome to My Digital Universe
+# 🚀 Hellow World! Welcome to My Digital Universe
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;Tech+Innovator;Problem+Solver;UI%2FUX+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00D9FF&background=00000000" alt="Typing SVG" />
@@ -52,12 +48,6 @@
 
 ## 🎯 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-</div>
-
-<br>
-
 ```typescript
 interface Developer {
   name: string;
@@ -87,10 +77,6 @@ const ajmal: Developer = {
 ```
 
 ## 💼 Professional Journey
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Professional GIF"/>
-</div>
 
 ### 🚀 **NumberWale.com** - *Solo Full Stack Developer*
 <div align="center">
@@ -132,10 +118,6 @@ const achievements = {
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Tech GIF"/>
-</div>
-
 ### 💻 **Programming Languages**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" />
@@ -169,10 +151,6 @@ const achievements = {
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Projects GIF"/>
-</div>
 
 ### 🔢 **NumberWale.com** - *E-commerce Platform*
 
@@ -275,10 +253,6 @@ Features:
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Education GIF"/>
-</div>
-
 ### 🎓 **Academic Background**
 ```yaml
 Education:
@@ -303,35 +277,6 @@ Education:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300" alt="Analytics GIF"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmalshaikh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ajmal's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalshaikh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajmalshaikh04&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmalshaikh04&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=00D9FF&line=FF6B6B&point=4ECDC4" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajmalshaikh04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💭 Daily Inspiration
 
 <div align="center">
@@ -341,10 +286,6 @@ Education:
 ---
 
 ## 🤝 Let's Connect & Create Magic Together!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" alt="Connect GIF"/>
-</div>
 
 <div align="center">
   <table>
